@@ -1,0 +1,89 @@
+Sending 'abl_a' (376 KB)                           OKAY [  0.012s]
+Writing 'abl_a'                                    OKAY [  0.024s]
+Finished. Total time: 0.208s
+Sending 'abl_b' (376 KB)                           OKAY [  0.016s]
+Writing 'abl_b'                                    OKAY [  0.022s]
+Finished. Total time: 0.046s
+Sending 'xbl_a' (2504 KB)                          OKAY [  0.093s]
+Writing 'xbl_a'                                    OKAY [  0.044s]
+Finished. Total time: 0.206s
+Sending 'xbl_b' (2504 KB)                          OKAY [  0.061s]
+Writing 'xbl_b'                                    OKAY [  0.050s]
+Finished. Total time: 0.121s
+Sending 'bluetooth_a' (556 KB)                     OKAY [  0.024s]
+Writing 'bluetooth_a'                              OKAY [  0.010s]
+Finished. Total time: 0.069s
+Sending 'boot_a' (39080 KB)                        OKAY [  1.360s]
+Writing 'boot_a'                                   OKAY [  0.264s]
+Finished. Total time: 1.648s
+Sending 'cda_a' (8192 KB)                          OKAY [  0.266s]
+Writing 'cda_a'                                    OKAY [  0.065s]
+Finished. Total time: 0.362s
+Sending 'cmnlib_a' (220 KB)                        OKAY [  0.012s]
+Writing 'cmnlib_a'                                 OKAY [  0.025s]
+Finished. Total time: 0.080s
+Sending 'cmnlib64_a' (268 KB)                      OKAY [  0.008s]
+Writing 'cmnlib64_a'                               OKAY [  0.025s]
+Finished. Total time: 0.064s
+Sending 'devcfg_a' (48 KB)                         OKAY [  0.007s]
+Writing 'devcfg_a'                                 OKAY [  0.021s]
+Finished. Total time: 0.054s
+Sending 'dsp_a' (16384 KB)                         OKAY [  0.547s]
+Writing 'dsp_a'                                    OKAY [  0.114s]
+Finished. Total time: 0.687s
+Sending 'hidden_a' (40960 KB)                      OKAY [  1.199s]
+Writing 'hidden_a'                                 OKAY [  0.276s]
+Finished. Total time: 1.498s
+Sending 'hyp_a' (272 KB)                           OKAY [  0.016s]
+Writing 'hyp_a'                                    OKAY [  0.023s]
+Finished. Total time: 0.059s
+Sending 'keymaster_a' (308 KB)                     OKAY [  0.018s]
+Writing 'keymaster_a'                              OKAY [  0.025s]
+Finished. Total time: 0.060s
+Sending 'mdtp_a' (17392 KB)                        OKAY [  0.523s]
+Writing 'mdtp_a'                                   OKAY [  0.125s]
+Finished. Total time: 0.675s
+Sending 'mdtpsecapp_a' (1056 KB)                   OKAY [  0.037s]
+Writing 'mdtpsecapp_a'                             OKAY [  0.030s]
+Finished. Total time: 0.095s
+Sending 'modem_a' (110688 KB)                      OKAY [  3.173s]
+Writing 'modem_a'                                  OKAY [  0.737s]
+Finished. Total time: 3.933s
+Sending 'nvdef_a' (3832 KB)                        OKAY [  0.134s]
+Writing 'nvdef_a'                                  OKAY [  0.031s]
+Finished. Total time: 0.194s
+Sending 'pmic_a' (40 KB)                           OKAY [  0.012s]
+Writing 'pmic_a'                                   OKAY [  0.020s]
+Finished. Total time: 0.060s
+Sending 'rpm_a' (220 KB)                           OKAY [  0.057s]
+Writing 'rpm_a'                                    OKAY [  0.023s]
+Finished. Total time: 0.101s
+Sending 'splash_a' (92 KB)                         OKAY [  0.006s]
+Writing 'splash_a'                                 OKAY [  0.007s]
+Finished. Total time: 0.044s
+Sending sparse 'system_a' 1/7 (372961 KB)          OKAY [ 14.570s]
+Writing 'system_a'                                 OKAY [  0.045s]
+Sending sparse 'system_a' 2/7 (358627 KB)          OKAY [ 13.377s]
+Writing 'system_a'                                 OKAY [  0.045s]
+Sending sparse 'system_a' 3/7 (393215 KB)          OKAY [ 14.543s]
+Writing 'system_a'                                 OKAY [  0.048s]
+Sending sparse 'system_a' 4/7 (393213 KB)          OKAY [ 14.922s]
+Writing 'system_a'                                 OKAY [  0.045s]
+Sending sparse 'system_a' 5/7 (390627 KB)          OKAY [ 15.032s]
+Writing 'system_a'                                 OKAY [  0.049s]
+Sending sparse 'system_a' 6/7 (392868 KB)          OKAY [ 14.894s]
+Writing 'system_a'                                 OKAY [  0.048s]
+Sending sparse 'system_a' 7/7 (202609 KB)          OKAY [  7.711s]
+Writing 'system_a'                                 OKAY [  0.048s]
+Finished. Total time: 266.798s
+Sending 'systeminfo_a' (24 KB)                     OKAY [  0.002s]
+Writing 'systeminfo_a'                             OKAY [  0.050s]
+Finished. Total time: 7.211s
+Sending 'tz_a' (1924 KB)                           OKAY [  0.086s]
+Writing 'tz_a'                                     OKAY [  0.181s]
+Finished. Total time: 0.287s
+Sending sparse 'vendor_a' 1/2 (389706 KB)          OKAY [  9.715s]
+Writing 'vendor_a'                                 OKAY [  0.046s]
+Sending sparse 'vendor_a' 2/2 (82649 KB)           OKAY [  4.631s]
+Writing 'vendor_a'                                 OKAY [  0.044s]
+Finished. Total time: 24.342s
