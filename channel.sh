@@ -33,7 +33,7 @@
     ⚡Supported Android Version: *8.0, 9.0 & 10.0*
     👤 By: *Raghu Varma*
     #HB #NOKIA #TOOL #GUI                                                                                                                                                                          
-    Follow: @Nokia6plusofficial ✅"     
+    Follow: @Nokia7plusOfficial ✅"     
     
     
     python telegram.py -t $Telegram_Api_code -c @nokia7161 -P image.png -C " 
