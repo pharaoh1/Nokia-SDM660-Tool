@@ -96,6 +96,10 @@ Many people are getting confused about flashing stock rom on their Respective No
 
 
 
+## Do you want to create your own Home Brew Stock Rom ? just go ahead from the below link 
+
+  https://github.com/RaghuVarma331/Home-Brew_Tool-Nokia 
+
 ## Credits 
 
   My entire Nokia SDM660 community Thank you all for your massive support
