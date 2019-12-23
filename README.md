@@ -73,26 +73,26 @@ Many people are getting confused about flashing stock rom on their Respective No
 
 ## Nokia 6.1 Plus
 
-* [**Android 9.0.0 DRG330B HOME BREW (October 2018)**](https://drive.google.com/open?id=1F5eTVhzhvinIFkzddVqOqmbRE8oL2Fw3)
-* [**Android 9.0.0 DRG345B HOME BREW (December 2018)**](https://drive.google.com/open?id=1irNeWlNjh9zIeDpNc1_cEmQ2UPMLiZ3V)
-* [**Android 9.0.0 DRG354E HOME BREW (June 2019)**](https://drive.google.com/open?id=1AIXxwsJdkX6qtxtzbLJXM384IReQGZ9a)
-* [**Android 9.0.0 DRG354H HOME BREW (July 2019)**](https://drive.google.com/open?id=1UiOcQh_bJVXyCNQ9DbNqG3fCrHn0DeyW)
+* [**Android 9.0.0 DRG330B HOME BREW (October 2018)**](https://sourceforge.net/projects/drg-sprout/files/STOCK-ROMS/DRG-330B-0-00WW-B01-9.0-HB.zip/download)
+* [**Android 9.0.0 DRG345B HOME BREW (December 2018)**](https://sourceforge.net/projects/drg-sprout/files/STOCK-ROMS/DRG-345B-0-00WW-B01-9.0-HB.zip/download)
+* [**Android 9.0.0 DRG354E HOME BREW (June 2019)**](https://sourceforge.net/projects/drg-sprout/files/STOCK-ROMS/DRG-354E-0-00WW-B01-9.0-HB.zip/download)
+* [**Android 9.0.0 DRG354H HOME BREW (July 2019)**](https://sourceforge.net/projects/drg-sprout/files/STOCK-ROMS/DRG-354H-0-00WW-B01-9.0-HB.zip/download)
 
 
 ## Nokia 7 Plus
 
-* [**Android 9.0.0 B2N354H HOME BREW (July 2019)**](https://sourceforge.net/projects/b2n-sprout/files/STOCK-ROMS/B2N-354H-0-00WW-B01-9.0.zip/download)
+* [**Android 9.0.0 B2N354H HOME BREW (July 2019)**](https://sourceforge.net/projects/b2n-sprout/files/STOCK-ROMS/B2N-354H-0-00WW-B01-9.0-HB.zip/download)
 
 
 ## Nokia 7.1
 
-* [**Android 9.0.0 CTL354H HOME BREW (July 2019)**](https://sourceforge.net/projects/ctl-sprout/files/STOCK-ROMS/CTL-354H-0-00WW-B01-9.0.zip/download)
-* [**Android 10.0.0 CTL408B HOME BREW (November 2019)**](https://sourceforge.net/projects/ctl-sprout/files/STOCK-ROMS/CTL-408B-0-00WW-B01-10.0.zip/download)
+* [**Android 9.0.0 CTL354H HOME BREW (July 2019)**](https://sourceforge.net/projects/ctl-sprout/files/STOCK-ROMS/CTL-354H-0-00WW-B01-9.0-HB.zip/download)
+* [**Android 10.0.0 CTL408B HOME BREW (November 2019)**](https://sourceforge.net/projects/ctl-sprout/files/STOCK-ROMS/CTL-408B-0-00WW-B01-10.0-HB.zip/download)
 
 
 ## Nokia 6.1
 
-* [**Android 9.0.0 PL2354H HOME BREW (July 2019)**](https://sourceforge.net/projects/pl2-sprout/files/STOCK-ROMS/PL2-354H-0-00WW-B01-9.0.zip/download)
+* [**Android 9.0.0 PL2354H HOME BREW (July 2019)**](https://sourceforge.net/projects/pl2-sprout/files/STOCK-ROMS/PL2-354H-0-00WW-B01-9.0-HB.zip/download)
 
 
 
