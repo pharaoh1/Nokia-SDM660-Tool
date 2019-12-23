@@ -10,7 +10,7 @@
     
     $(date)*
     
-    🔨 [Download flash tool](https://github.com/RaghuVarma331/Nokia-SDM660-Tool/releases)
+    🔨 [Download flash tool](https://forum.xda-developers.com/nokia-6-1-plus/development/tool-stock-rom-flash-tool-nokia-6-1-t3976187)
     💬 [Flashing procedure](https://raw.githubusercontent.com/RaghuVarma331/changelogs/master/crossdevelopment/hbinstallation.txt)
     📱 Device: *Nokia 6.1 Plus*
     ⚡Build Version: *V-1*
@@ -26,7 +26,7 @@
     
     $(date)*
     
-    🔨 [Download flash tool](https://github.com/RaghuVarma331/Nokia-SDM660-Tool/releases)
+    🔨 [Download flash tool](https://forum.xda-developers.com/nokia-7-plus/development/tool-stock-rom-flash-tool-nokia-7-plus-t4023961)
     💬 [Flashing procedure](https://raw.githubusercontent.com/RaghuVarma331/changelogs/master/crossdevelopment/hbinstallation.txt)
     📱 Device: *Nokia 7 Plus*
     ⚡Build Version: *V-1*
@@ -43,7 +43,7 @@
     
     $(date)*
     
-    🔨 [Download flash tool](https://github.com/RaghuVarma331/Nokia-SDM660-Tool/releases)
+    🔨 [Download flash tool](https://forum.xda-developers.com/nokia-7-1/development/tool-stock-rom-flash-tool-nokia-7-1-t4023959)
     💬 [Flashing procedure](https://raw.githubusercontent.com/RaghuVarma331/changelogs/master/crossdevelopment/hbinstallation.txt)
     📱 Device: *Nokia 7.1*
     ⚡Build Version: *V-1*
@@ -59,7 +59,7 @@
     
     $(date)*
     
-    🔨 [Download flash tool](https://github.com/RaghuVarma331/Nokia-SDM660-Tool/releases)
+    🔨 [Download flash tool](https://forum.xda-developers.com/nokia-6-2018/development/tool-stock-rom-flash-tool-nokia-6-1-t4023965)
     💬 [Flashing procedure](https://raw.githubusercontent.com/RaghuVarma331/changelogs/master/crossdevelopment/hbinstallation.txt)
     📱 Device: *Nokia 6.1*
     ⚡Build Version: *V-1*
