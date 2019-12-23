@@ -37,7 +37,7 @@ Many people are getting confused about flashing stock rom on their Respective No
 
     6. Now Open Nokia-Tool.exe
 
-    7. Now select Buttion according to your Phone code & Stock Rom code
+    7. Now select Button according to your Phone code & Stock Rom code
     
     8. Example Iam Using Nokia 6.1 Plus & My phone code DRG & latest Stock rom for my phone is 354H so i will choose DRG354H
 
