@@ -3373,7 +3373,7 @@ namespace Nokia_Tool
             p6.StartInfo.UseShellExecute = false;
             p6.StartInfo.RedirectStandardOutput = true;
             p6.StartInfo.FileName = "cmd.exe";
-            p6.StartInfo.Arguments = "/c fastboot flash abl_a CTL-408B-0-00WW-B01-abl.img  2>>log.txt  ";
+            p6.StartInfo.Arguments = "/c fastboot flash abl_a CTL-408B-0-00WW-B03-abl.img  2>>log.txt  ";
             p6.StartInfo.CreateNoWindow = true;
             p6.Start();
             richTextBox1.Text = richTextBox1.Text + p6.StandardOutput.ReadToEnd();
@@ -3395,7 +3395,7 @@ namespace Nokia_Tool
             p8.StartInfo.UseShellExecute = false;
             p8.StartInfo.RedirectStandardOutput = true;
             p8.StartInfo.FileName = "cmd.exe";
-            p8.StartInfo.Arguments = "/c fastboot flash abl_b CTL-408B-0-00WW-B01-abl.img  2>>log.txt ";
+            p8.StartInfo.Arguments = "/c fastboot flash abl_b CTL-408B-0-00WW-B03-abl.img  2>>log.txt ";
             p8.StartInfo.CreateNoWindow = true;
             p8.Start();
             richTextBox1.Text = richTextBox1.Text + p8.StandardOutput.ReadToEnd();
@@ -3417,7 +3417,7 @@ namespace Nokia_Tool
             p10.StartInfo.UseShellExecute = false;
             p10.StartInfo.RedirectStandardOutput = true;
             p10.StartInfo.FileName = "cmd.exe";
-            p10.StartInfo.Arguments = "/c fastboot flash xbl_a CTL-408B-0-00WW-B01-xbl.img  2>>log.txt ";
+            p10.StartInfo.Arguments = "/c fastboot flash xbl_a CTL-408B-0-00WW-B03-xbl.img  2>>log.txt ";
             p10.StartInfo.CreateNoWindow = true;
             p10.Start();
             richTextBox1.Text = richTextBox1.Text + p10.StandardOutput.ReadToEnd();
@@ -3439,7 +3439,7 @@ namespace Nokia_Tool
             p12.StartInfo.UseShellExecute = false;
             p12.StartInfo.RedirectStandardOutput = true;
             p12.StartInfo.FileName = "cmd.exe";
-            p12.StartInfo.Arguments = "/c fastboot flash xbl_b CTL-408B-0-00WW-B01-xbl.img  2>>log.txt ";
+            p12.StartInfo.Arguments = "/c fastboot flash xbl_b CTL-408B-0-00WW-B03-xbl.img  2>>log.txt ";
             p12.StartInfo.CreateNoWindow = true;
             p12.Start();
             richTextBox1.Text = richTextBox1.Text + p12.StandardOutput.ReadToEnd();
@@ -3461,7 +3461,7 @@ namespace Nokia_Tool
             p14.StartInfo.UseShellExecute = false;
             p14.StartInfo.RedirectStandardOutput = true;
             p14.StartInfo.FileName = "cmd.exe";
-            p14.StartInfo.Arguments = "/c fastboot flash bluetooth_a CTL-408B-0-00WW-B01-bluetooth.img  2>>log.txt ";
+            p14.StartInfo.Arguments = "/c fastboot flash bluetooth_a CTL-408B-0-00WW-B03-bluetooth.img  2>>log.txt ";
             p14.StartInfo.CreateNoWindow = true;
             p14.Start();
             richTextBox1.Text = richTextBox1.Text + p14.StandardOutput.ReadToEnd();
@@ -3483,7 +3483,7 @@ namespace Nokia_Tool
             p16.StartInfo.UseShellExecute = false;
             p16.StartInfo.RedirectStandardOutput = true;
             p16.StartInfo.FileName = "cmd.exe";
-            p16.StartInfo.Arguments = "/c fastboot flash boot_a CTL-408B-0-00WW-B01-boot.img  2>>log.txt ";
+            p16.StartInfo.Arguments = "/c fastboot flash boot_a CTL-408B-0-00WW-B03-boot.img  2>>log.txt ";
             p16.StartInfo.CreateNoWindow = true;
             p16.Start();
             richTextBox1.Text = richTextBox1.Text + p16.StandardOutput.ReadToEnd();
@@ -3505,7 +3505,7 @@ namespace Nokia_Tool
             p18.StartInfo.UseShellExecute = false;
             p18.StartInfo.RedirectStandardOutput = true;
             p18.StartInfo.FileName = "cmd.exe";
-            p18.StartInfo.Arguments = "/c fastboot flash cda_a CTL-408B-0-00WW-B01-cda.img  2>>log.txt ";
+            p18.StartInfo.Arguments = "/c fastboot flash cda_a CTL-408B-0-00WW-B03-cda.img  2>>log.txt ";
             p18.StartInfo.CreateNoWindow = true;
             p18.Start();
             richTextBox1.Text = richTextBox1.Text + p18.StandardOutput.ReadToEnd();
@@ -3527,7 +3527,7 @@ namespace Nokia_Tool
             p20.StartInfo.UseShellExecute = false;
             p20.StartInfo.RedirectStandardOutput = true;
             p20.StartInfo.FileName = "cmd.exe";
-            p20.StartInfo.Arguments = "/c fastboot flash cmnlib_a CTL-408B-0-00WW-B01-cmnlib.img  2>>log.txt ";
+            p20.StartInfo.Arguments = "/c fastboot flash cmnlib_a CTL-408B-0-00WW-B03-cmnlib.img  2>>log.txt ";
             p20.StartInfo.CreateNoWindow = true;
             p20.Start();
             richTextBox1.Text = richTextBox1.Text + p20.StandardOutput.ReadToEnd();
@@ -3549,7 +3549,7 @@ namespace Nokia_Tool
             p22.StartInfo.UseShellExecute = false;
             p22.StartInfo.RedirectStandardOutput = true;
             p22.StartInfo.FileName = "cmd.exe";
-            p22.StartInfo.Arguments = "/c fastboot flash cmnlib64_a CTL-408B-0-00WW-B01-cmnlib64.img  2>>log.txt ";
+            p22.StartInfo.Arguments = "/c fastboot flash cmnlib64_a CTL-408B-0-00WW-B03-cmnlib64.img  2>>log.txt ";
             p22.StartInfo.CreateNoWindow = true;
             p22.Start();
             richTextBox1.Text = richTextBox1.Text + p22.StandardOutput.ReadToEnd();
@@ -3571,7 +3571,7 @@ namespace Nokia_Tool
             p24.StartInfo.UseShellExecute = false;
             p24.StartInfo.RedirectStandardOutput = true;
             p24.StartInfo.FileName = "cmd.exe";
-            p24.StartInfo.Arguments = "/c fastboot flash devcfg_a CTL-408B-0-00WW-B01-devcfg.img  2>>log.txt ";
+            p24.StartInfo.Arguments = "/c fastboot flash devcfg_a CTL-408B-0-00WW-B03-devcfg.img  2>>log.txt ";
             p24.StartInfo.CreateNoWindow = true;
             p24.Start();
             richTextBox1.Text = richTextBox1.Text + p24.StandardOutput.ReadToEnd();
@@ -3593,7 +3593,7 @@ namespace Nokia_Tool
             p26.StartInfo.UseShellExecute = false;
             p26.StartInfo.RedirectStandardOutput = true;
             p26.StartInfo.FileName = "cmd.exe";
-            p26.StartInfo.Arguments = "/c fastboot flash dsp_a CTL-408B-0-00WW-B01-dsp.img  2>>log.txt ";
+            p26.StartInfo.Arguments = "/c fastboot flash dsp_a CTL-408B-0-00WW-B03-dsp.img  2>>log.txt ";
             p26.StartInfo.CreateNoWindow = true;
             p26.Start();
             richTextBox1.Text = richTextBox1.Text + p26.StandardOutput.ReadToEnd();
@@ -3615,7 +3615,7 @@ namespace Nokia_Tool
             p28.StartInfo.UseShellExecute = false;
             p28.StartInfo.RedirectStandardOutput = true;
             p28.StartInfo.FileName = "cmd.exe";
-            p28.StartInfo.Arguments = "/c fastboot flash hidden_a CTL-408B-0-00WW-B01-hidden.img  2>>log.txt ";
+            p28.StartInfo.Arguments = "/c fastboot flash hidden_a CTL-408B-0-00WW-B03-hidden.img  2>>log.txt ";
             p28.StartInfo.CreateNoWindow = true;
             p28.Start();
             richTextBox1.Text = richTextBox1.Text + p28.StandardOutput.ReadToEnd();
@@ -3637,7 +3637,7 @@ namespace Nokia_Tool
             p30.StartInfo.UseShellExecute = false;
             p30.StartInfo.RedirectStandardOutput = true;
             p30.StartInfo.FileName = "cmd.exe";
-            p30.StartInfo.Arguments = "/c fastboot flash hyp_a CTL-408B-0-00WW-B01-hyp.img  2>>log.txt ";
+            p30.StartInfo.Arguments = "/c fastboot flash hyp_a CTL-408B-0-00WW-B03-hyp.img  2>>log.txt ";
             p30.StartInfo.CreateNoWindow = true;
             p30.Start();
             richTextBox1.Text = richTextBox1.Text + p30.StandardOutput.ReadToEnd();
@@ -3659,7 +3659,7 @@ namespace Nokia_Tool
             p32.StartInfo.UseShellExecute = false;
             p32.StartInfo.RedirectStandardOutput = true;
             p32.StartInfo.FileName = "cmd.exe";
-            p32.StartInfo.Arguments = "/c fastboot flash keymaster_a CTL-408B-0-00WW-B01-keymaster.img  2>>log.txt ";
+            p32.StartInfo.Arguments = "/c fastboot flash keymaster_a CTL-408B-0-00WW-B03-keymaster.img  2>>log.txt ";
             p32.StartInfo.CreateNoWindow = true;
             p32.Start();
             richTextBox1.Text = richTextBox1.Text + p32.StandardOutput.ReadToEnd();
@@ -3681,7 +3681,7 @@ namespace Nokia_Tool
             p34.StartInfo.UseShellExecute = false;
             p34.StartInfo.RedirectStandardOutput = true;
             p34.StartInfo.FileName = "cmd.exe";
-            p34.StartInfo.Arguments = "/c fastboot flash mdtp_a CTL-408B-0-00WW-B01-mdtp.img  2>>log.txt ";
+            p34.StartInfo.Arguments = "/c fastboot flash mdtp_a CTL-408B-0-00WW-B03-mdtp.img  2>>log.txt ";
             p34.StartInfo.CreateNoWindow = true;
             p34.Start();
             richTextBox1.Text = richTextBox1.Text + p34.StandardOutput.ReadToEnd();
@@ -3703,7 +3703,7 @@ namespace Nokia_Tool
             p36.StartInfo.UseShellExecute = false;
             p36.StartInfo.RedirectStandardOutput = true;
             p36.StartInfo.FileName = "cmd.exe";
-            p36.StartInfo.Arguments = "/c fastboot flash mdtpsecapp_a CTL-408B-0-00WW-B01-mdtpsecapp.img  2>>log.txt ";
+            p36.StartInfo.Arguments = "/c fastboot flash mdtpsecapp_a CTL-408B-0-00WW-B03-mdtpsecapp.img  2>>log.txt ";
             p36.StartInfo.CreateNoWindow = true;
             p36.Start();
             richTextBox1.Text = richTextBox1.Text + p36.StandardOutput.ReadToEnd();
@@ -3725,7 +3725,7 @@ namespace Nokia_Tool
             p38.StartInfo.UseShellExecute = false;
             p38.StartInfo.RedirectStandardOutput = true;
             p38.StartInfo.FileName = "cmd.exe";
-            p38.StartInfo.Arguments = "/c fastboot flash modem_a CTL-408B-0-00WW-B01-modem.img  2>>log.txt ";
+            p38.StartInfo.Arguments = "/c fastboot flash modem_a CTL-408B-0-00WW-B03-modem.img  2>>log.txt ";
             p38.StartInfo.CreateNoWindow = true;
             p38.Start();
             richTextBox1.Text = richTextBox1.Text + p38.StandardOutput.ReadToEnd();
@@ -3747,7 +3747,7 @@ namespace Nokia_Tool
             p40.StartInfo.UseShellExecute = false;
             p40.StartInfo.RedirectStandardOutput = true;
             p40.StartInfo.FileName = "cmd.exe";
-            p40.StartInfo.Arguments = "/c fastboot flash nvdef_a CTL-408B-0-00WW-B01-nvdef.img  2>>log.txt ";
+            p40.StartInfo.Arguments = "/c fastboot flash nvdef_a CTL-408B-0-00WW-B03-nvdef.img  2>>log.txt ";
             p40.StartInfo.CreateNoWindow = true;
             p40.Start();
             richTextBox1.Text = richTextBox1.Text + p40.StandardOutput.ReadToEnd();
@@ -3769,7 +3769,7 @@ namespace Nokia_Tool
             p42.StartInfo.UseShellExecute = false;
             p42.StartInfo.RedirectStandardOutput = true;
             p42.StartInfo.FileName = "cmd.exe";
-            p42.StartInfo.Arguments = "/c fastboot flash pmic_a CTL-408B-0-00WW-B01-pmic.img  2>>log.txt";
+            p42.StartInfo.Arguments = "/c fastboot flash pmic_a CTL-408B-0-00WW-B03-pmic.img  2>>log.txt";
             p42.StartInfo.CreateNoWindow = true;
             p42.Start();
             richTextBox1.Text = richTextBox1.Text + p42.StandardOutput.ReadToEnd();
@@ -3791,7 +3791,7 @@ namespace Nokia_Tool
             p44.StartInfo.UseShellExecute = false;
             p44.StartInfo.RedirectStandardOutput = true;
             p44.StartInfo.FileName = "cmd.exe";
-            p44.StartInfo.Arguments = "/c fastboot flash rpm_a CTL-408B-0-00WW-B01-rpm.img  2>>log.txt ";
+            p44.StartInfo.Arguments = "/c fastboot flash rpm_a CTL-408B-0-00WW-B03-rpm.img  2>>log.txt ";
             p44.StartInfo.CreateNoWindow = true;
             p44.Start();
             richTextBox1.Text = richTextBox1.Text + p44.StandardOutput.ReadToEnd();
@@ -3813,7 +3813,7 @@ namespace Nokia_Tool
             p46.StartInfo.UseShellExecute = false;
             p46.StartInfo.RedirectStandardOutput = true;
             p46.StartInfo.FileName = "cmd.exe";
-            p46.StartInfo.Arguments = "/c fastboot flash splash_a CTL-408B-0-00WW-B01-splash.img  2>>log.txt ";
+            p46.StartInfo.Arguments = "/c fastboot flash splash_a CTL-408B-0-00WW-B03-splash.img  2>>log.txt ";
             p46.StartInfo.CreateNoWindow = true;
             p46.Start();
             richTextBox1.Text = richTextBox1.Text + p46.StandardOutput.ReadToEnd();
@@ -3835,7 +3835,7 @@ namespace Nokia_Tool
             p48.StartInfo.UseShellExecute = false;
             p48.StartInfo.RedirectStandardOutput = true;
             p48.StartInfo.FileName = "cmd.exe";
-            p48.StartInfo.Arguments = "/c fastboot flash system_a CTL-408B-0-00WW-B01-system.img  2>>log.txt ";
+            p48.StartInfo.Arguments = "/c fastboot flash system_a CTL-408B-0-00WW-B03-system.img  2>>log.txt ";
             p48.StartInfo.CreateNoWindow = true;
             p48.Start();
             richTextBox1.Text = richTextBox1.Text + p48.StandardOutput.ReadToEnd();
@@ -3857,7 +3857,7 @@ namespace Nokia_Tool
             p50.StartInfo.UseShellExecute = false;
             p50.StartInfo.RedirectStandardOutput = true;
             p50.StartInfo.FileName = "cmd.exe";
-            p50.StartInfo.Arguments = "/c fastboot flash systeminfo_a CTL-408B-0-00WW-B01-systeminfo.img  2>>log.txt";
+            p50.StartInfo.Arguments = "/c fastboot flash systeminfo_a CTL-408B-0-00WW-B03-systeminfo.img  2>>log.txt";
             p50.StartInfo.CreateNoWindow = true;
             p50.Start();
             richTextBox1.Text = richTextBox1.Text + p50.StandardOutput.ReadToEnd();
@@ -3879,7 +3879,7 @@ namespace Nokia_Tool
             p52.StartInfo.UseShellExecute = false;
             p52.StartInfo.RedirectStandardOutput = true;
             p52.StartInfo.FileName = "cmd.exe";
-            p52.StartInfo.Arguments = "/c fastboot flash tz_a CTL-408B-0-00WW-B01-tz.img  2>>log.txt";
+            p52.StartInfo.Arguments = "/c fastboot flash tz_a CTL-408B-0-00WW-B03-tz.img  2>>log.txt";
             p52.StartInfo.CreateNoWindow = true;
             p52.Start();
             richTextBox1.Text = richTextBox1.Text + p52.StandardOutput.ReadToEnd();
@@ -3901,7 +3901,7 @@ namespace Nokia_Tool
             p54.StartInfo.UseShellExecute = false;
             p54.StartInfo.RedirectStandardOutput = true;
             p54.StartInfo.FileName = "cmd.exe";
-            p54.StartInfo.Arguments = "/c fastboot flash vendor_a CTL-408B-0-00WW-B01-vendor.img  2>>log.txt ";
+            p54.StartInfo.Arguments = "/c fastboot flash vendor_a CTL-408B-0-00WW-B03-vendor.img  2>>log.txt ";
             p54.StartInfo.CreateNoWindow = true;
             p54.Start();
             richTextBox1.Text = richTextBox1.Text + p54.StandardOutput.ReadToEnd();
