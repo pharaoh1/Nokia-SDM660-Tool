@@ -87,7 +87,7 @@ Many people are getting confused about flashing stock rom on their Respective No
 ## Nokia 7.1
 
 * [**Android 9.0.0 CTL354H HOME BREW (July 2019)**](https://sourceforge.net/projects/ctl-sprout/files/STOCK-ROMS/CTL-354H-0-00WW-B01-9.0-HB.zip/download)
-* [**Android 10.0.0 CTL408B HOME BREW (November 2019)**](https://sourceforge.net/projects/ctl-sprout/files/STOCK-ROMS/CTL-408B-0-00WW-B01-10.0-HB.zip/download)
+* [**Android 10.0.0 CTL408B HOME BREW (November 2019)**](https://sourceforge.net/projects/ctl-sprout/files/STOCK-ROMS/CTL-408B-0-00WW-B03-10.0-HB.zip/download)
 
 
 ## Nokia 6.1
