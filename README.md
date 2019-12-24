@@ -95,6 +95,10 @@ Many people are getting confused about flashing stock rom on their Respective No
 * [**Android 9.0.0 PL2354H HOME BREW (July 2019)**](https://sourceforge.net/projects/pl2-sprout/files/STOCK-ROMS/PL2-354H-0-00WW-B01-9.0-HB.zip/download)
 
 
+## Download Tool
+
+* [**Nokia-SDM660-Tool.zip**](https://github.com/RaghuVarma331/Nokia-SDM660-Tool/releases)
+
 
 ## Do you want to create your own Home Brew Stock Rom ? just go ahead from the below link 
 
