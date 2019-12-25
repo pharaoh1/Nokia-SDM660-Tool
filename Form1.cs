@@ -7020,7 +7020,7 @@ namespace Nokia_Tool
             p40.StartInfo.UseShellExecute = false;
             p40.StartInfo.RedirectStandardOutput = true;
             p40.StartInfo.FileName = "cmd.exe";
-            p40.StartInfo.Arguments = "/c astboot flash vbmeta_a --disable-verity --disable-verification DDV-00WW_1_390-vbmeta.img   2>>log.txt ";
+            p40.StartInfo.Arguments = "/c fastboot flash vbmeta_a --disable-verity --disable-verification DDV-00WW_1_390-vbmeta.img   2>>log.txt ";
             p40.StartInfo.CreateNoWindow = true;
             p40.Start();
             richTextBox1.Text = richTextBox1.Text + p40.StandardOutput.ReadToEnd();
@@ -7555,7 +7555,7 @@ namespace Nokia_Tool
             p40.StartInfo.UseShellExecute = false;
             p40.StartInfo.RedirectStandardOutput = true;
             p40.StartInfo.FileName = "cmd.exe";
-            p40.StartInfo.Arguments = "/c astboot flash vbmeta_a --disable-verity --disable-verification SLD-00WW_1_160-vbmeta.img   2>>log.txt ";
+            p40.StartInfo.Arguments = "/c fastboot flash vbmeta_a --disable-verity --disable-verification SLD-00WW_1_160-vbmeta.img   2>>log.txt ";
             p40.StartInfo.CreateNoWindow = true;
             p40.Start();
             richTextBox1.Text = richTextBox1.Text + p40.StandardOutput.ReadToEnd();
