@@ -6844,7 +6844,7 @@ namespace Nokia_Tool
             p24.StartInfo.UseShellExecute = false;
             p24.StartInfo.RedirectStandardOutput = true;
             p24.StartInfo.FileName = "cmd.exe";
-            p24.StartInfo.Arguments = "/c fastboot flash dtbo DDV-00WW_1_390-dtbo.img   2>>log.txt  ";
+            p24.StartInfo.Arguments = "/c fastboot flash dtbo_a DDV-00WW_1_390-dtbo.img   2>>log.txt  ";
             p24.StartInfo.CreateNoWindow = true;
             p24.Start();
             richTextBox1.Text = richTextBox1.Text + p24.StandardOutput.ReadToEnd();
@@ -7379,7 +7379,7 @@ namespace Nokia_Tool
             p24.StartInfo.UseShellExecute = false;
             p24.StartInfo.RedirectStandardOutput = true;
             p24.StartInfo.FileName = "cmd.exe";
-            p24.StartInfo.Arguments = "/c fastboot flash dtbo SLD-00WW_1_160-dtbo.img   2>>log.txt  ";
+            p24.StartInfo.Arguments = "/c fastboot flash dtbo_a SLD-00WW_1_160-dtbo.img   2>>log.txt  ";
             p24.StartInfo.CreateNoWindow = true;
             p24.Start();
             richTextBox1.Text = richTextBox1.Text + p24.StandardOutput.ReadToEnd();
