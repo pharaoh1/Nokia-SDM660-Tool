@@ -75,7 +75,7 @@
     
     $(date)*
     
-    🔨 [Download flash tool](https://forum.xda-developers.com/nokia-6-2018/development/tool-stock-rom-flash-tool-nokia-6-1-t4023965)
+    🔨 [Download flash tool](https://github.com/RaghuVarma331/Nokia-SDM660-Tool/releases)
     💬 [Flashing procedure](https://raw.githubusercontent.com/RaghuVarma331/changelogs/master/crossdevelopment/hbinstallation.txt)
     📱 Device: *Nokia 7.2*
     ⚡Build Version: *V-1*
@@ -91,7 +91,7 @@
     
     $(date)*
     
-    🔨 [Download flash tool](https://forum.xda-developers.com/nokia-6-2018/development/tool-stock-rom-flash-tool-nokia-6-1-t4023965)
+    🔨 [Download flash tool](https://github.com/RaghuVarma331/Nokia-SDM660-Tool/releases)
     💬 [Flashing procedure](https://raw.githubusercontent.com/RaghuVarma331/changelogs/master/crossdevelopment/hbinstallation.txt)
     📱 Device: *Nokia 6.2*
     ⚡Build Version: *V-1*
