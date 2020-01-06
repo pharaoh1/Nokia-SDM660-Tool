@@ -81,6 +81,7 @@ Many people are getting confused about flashing stock rom on their Respective No
 * [**Android 9.0.0 DRG345B HOME BREW (December 2018)**](https://sourceforge.net/projects/drg-sprout/files/STOCK-ROMS/DRG-345B-0-00WW-B01-9.0-HB.zip/download)
 * [**Android 9.0.0 DRG354E HOME BREW (June 2019)**](https://sourceforge.net/projects/drg-sprout/files/STOCK-ROMS/DRG-354E-0-00WW-B01-9.0-HB.zip/download)
 * [**Android 9.0.0 DRG354H HOME BREW (July 2019)**](https://sourceforge.net/projects/drg-sprout/files/STOCK-ROMS/DRG-354H-0-00WW-B01-9.0-HB.zip/download)
+* [**Android 10.0.0 DRG410C HOME BREW (December 2019)**](https://sourceforge.net/projects/drg-sprout/files/STOCK-ROMS/DRG-410C-0-00WW-B03-10.0-HB.zip/download)
 
 
 ## Nokia 7 Plus
