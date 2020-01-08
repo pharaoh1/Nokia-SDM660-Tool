@@ -99,6 +99,7 @@ Many people are getting confused about flashing stock rom on their Respective No
 ## Nokia 6.1
 
 * [**Android 9.0.0 PL2354H HOME BREW (July 2019)**](https://sourceforge.net/projects/pl2-sprout/files/STOCK-ROMS/PL2-354H-0-00WW-B01-9.0-HB.zip/download)
+* [**Android 10.0.0 PL2410C HOME BREW (December 2019)**](https://sourceforge.net/projects/pl2-sprout/files/STOCK-ROMS/PL2-410C-0-00WW-B03-10.0-HB.zip/download)
 
 
 ## Nokia 7.2
