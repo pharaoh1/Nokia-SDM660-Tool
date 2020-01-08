@@ -14,7 +14,7 @@
     💬 [Flashing procedure](https://raw.githubusercontent.com/RaghuVarma331/changelogs/master/crossdevelopment/hbinstallation.txt)
     📱 Device: *Nokia 6.1 Plus*
     ⚡Build Version: *V-1*
-    ⚡Supported Android Version: *8.0, 9.0 & 10.0*
+    ⚡Supported Android Version: *9.0 & 10.0*
     👤 By: *Raghu Varma*
     #HB #NOKIA #TOOL #GUI                                                                                                                                                                          
     Follow: @Nokia6plusofficial ✅" 
@@ -30,7 +30,7 @@
     💬 [Flashing procedure](https://raw.githubusercontent.com/RaghuVarma331/changelogs/master/crossdevelopment/hbinstallation.txt)
     📱 Device: *Nokia 7 Plus*
     ⚡Build Version: *V-1*
-    ⚡Supported Android Version: *8.0, 9.0 & 10.0*
+    ⚡Supported Android Version: *9.0 & 10.0*
     👤 By: *Raghu Varma*
     #HB #NOKIA #TOOL #GUI                                                                                                                                                                          
     Follow: @Nokia7plusOfficial ✅"     
@@ -47,7 +47,7 @@
     💬 [Flashing procedure](https://raw.githubusercontent.com/RaghuVarma331/changelogs/master/crossdevelopment/hbinstallation.txt)
     📱 Device: *Nokia 7.1*
     ⚡Build Version: *V-1*
-    ⚡Supported Android Version: *8.0, 9.0 & 10.0*
+    ⚡Supported Android Version: *9.0 & 10.0*
     👤 By: *Raghu Varma*
     #HB #NOKIA #TOOL #GUI                                                                                                                                                                          
     Follow: @nokia7161 ✅"      
@@ -63,7 +63,7 @@
     💬 [Flashing procedure](https://raw.githubusercontent.com/RaghuVarma331/changelogs/master/crossdevelopment/hbinstallation.txt)
     📱 Device: *Nokia 6.1*
     ⚡Build Version: *V-1*
-    ⚡Supported Android Version: *8.0, 9.0 & 10.0*
+    ⚡Supported Android Version: *9.0 & 10.0*
     👤 By: *Raghu Varma*
     #HB #NOKIA #TOOL #GUI                                                                                                                                                                          
     Follow: @nokia7161 ✅"     
