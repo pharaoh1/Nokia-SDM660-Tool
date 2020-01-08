@@ -2,8 +2,8 @@
 
 
     wget  https://github.com/RaghuVarma331/scripts/raw/master/pythonscripts/telegram.py
-    https://raw.githubusercontent.com/RaghuVarma331/Nokia-SDM660-Tool/master/Demo/newimg.bmp
-    python telegram.py -t $Telegram_Api_code -c @Nokia6plusofficial -P image.png -C " 
+    wget https://raw.githubusercontent.com/RaghuVarma331/Nokia-SDM660-Tool/master/Demo/newimg.bmp
+    python telegram.py -t $Telegram_Api_code -c @Nokia6plusofficial -P newimg.bmp -C " 
     *
     New Nokia SDM660 Flash Tool 
     Release is Up
@@ -19,7 +19,7 @@
     #HB #NOKIA #TOOL #GUI                                                                                                                                                                          
     Follow: @Nokia6plusofficial ✅" 
     
-    python telegram.py -t $Telegram_Api_code -c @Nokia7plusOfficial -P image.png -C " 
+    python telegram.py -t $Telegram_Api_code -c @Nokia7plusOfficial -P newimg.bmp -C " 
     *
     New Nokia SDM660 Flash Tool 
     Release is Up
@@ -36,7 +36,7 @@
     Follow: @Nokia7plusOfficial ✅"     
     
     
-    python telegram.py -t $Telegram_Api_code -c @nokia7161 -P image.png -C " 
+    python telegram.py -t $Telegram_Api_code -c @nokia7161 -P newimg.bmp -C " 
     *
     New Nokia SDM660 Flash Tool 
     Release is Up
@@ -52,7 +52,7 @@
     #HB #NOKIA #TOOL #GUI                                                                                                                                                                          
     Follow: @nokia7161 ✅"      
     
-    python telegram.py -t $Telegram_Api_code -c @nokia7161 -P image.png -C " 
+    python telegram.py -t $Telegram_Api_code -c @nokia7161 -P newimg.bmp -C " 
     *
     New Nokia SDM660 Flash Tool 
     Release is Up
@@ -68,7 +68,7 @@
     #HB #NOKIA #TOOL #GUI                                                                                                                                                                          
     Follow: @nokia7161 ✅"     
     
-    python telegram.py -t $Telegram_Api_code -c @Nokia7262 -P image.png -C " 
+    python telegram.py -t $Telegram_Api_code -c @Nokia7262 -P newimg.bmp -C " 
     *
     New Nokia SDM660 Flash Tool 
     Release is Up
@@ -84,7 +84,7 @@
     #HB #NOKIA #TOOL #GUI                                                                                                                                                                          
     Follow: @Nokia7262 ✅"      
 
-    python telegram.py -t $Telegram_Api_code -c @Nokia7262 -P image.png -C " 
+    python telegram.py -t $Telegram_Api_code -c @Nokia7262 -P newimg.bmp -C " 
     *
     New Nokia SDM660 Flash Tool 
     Release is Up
