@@ -105,14 +105,12 @@ Many people are getting confused about flashing stock rom on their Respective No
 ## Nokia 7.2
 
 * [**Android 9.0.0 DDV1390 HOME BREW (December 2019)**](https://sourceforge.net/projects/ddv-sprout/files/STOCK-ROMS/DDV-00WW_1_390-9.0-HB.zip/download)
-
 * [**Android 9.0.0 DDV1400 HOME BREW (January 2020)**](https://sourceforge.net/projects/ddv-sprout/files/STOCK-ROMS/DDV-00WW_1_400-9.0-HB.zip/download)
 
 
 ## Nokia 6.2
 
 * [**Android 9.0.0 SLD1160 HOME BREW (December 2019)**](https://sourceforge.net/projects/sld-sprout/files/STOCK-ROMS/SLD-00WW_1_160-9.0-HB.zip/download)
-
 * [**Android 9.0.0 SLD1170 HOME BREW (January 2020)**](https://sourceforge.net/projects/sld-sprout/files/STOCK-ROMS/SLD-00WW_1_170-9.0-HB.zip/download)
 
 
