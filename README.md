@@ -72,47 +72,6 @@ Many people are getting confused about flashing stock rom on their Respective No
 
     A. Yes works On Oreo , pie &  Q  but keep this point in your mind update your platform tools time to time due to For Q & Pie & Oreo all these 3 having different different platform tools so if you face any erros don't get scared just download latest adb platform tools
 
-## Download Stock Roms
-
-
-## Nokia 6.1 Plus
-
-* [**Android 9.0.0 DRG330B HOME BREW (October 2018)**](https://sourceforge.net/projects/drg-sprout/files/STOCK-ROMS/DRG-330B-0-00WW-B01-9.0-HB.zip/download)
-* [**Android 9.0.0 DRG345B HOME BREW (December 2018)**](https://sourceforge.net/projects/drg-sprout/files/STOCK-ROMS/DRG-345B-0-00WW-B01-9.0-HB.zip/download)
-* [**Android 9.0.0 DRG354E HOME BREW (June 2019)**](https://sourceforge.net/projects/drg-sprout/files/STOCK-ROMS/DRG-354E-0-00WW-B01-9.0-HB.zip/download)
-* [**Android 9.0.0 DRG354H HOME BREW (July 2019)**](https://sourceforge.net/projects/drg-sprout/files/STOCK-ROMS/DRG-354H-0-00WW-B01-9.0-HB.zip/download)
-* [**Android 10.0.0 DRG410C HOME BREW (December 2019)**](https://sourceforge.net/projects/drg-sprout/files/STOCK-ROMS/DRG-410C-0-00WW-B03-10.0-HB.zip/download)
-
-
-## Nokia 7 Plus
-
-* [**Android 9.0.0 B2N354H HOME BREW (July 2019)**](https://sourceforge.net/projects/b2n-sprout/files/STOCK-ROMS/B2N-354H-0-00WW-B01-9.0-HB.zip/download)
-* [**Android 10.0.0 B2N410C HOME BREW (December 2019)**](https://sourceforge.net/projects/b2n-sprout/files/STOCK-ROMS/B2N-410C-0-00WW-B03-10.0-HB.zip/download)
-
-
-## Nokia 7.1
-
-* [**Android 9.0.0 CTL354H HOME BREW (July 2019)**](https://sourceforge.net/projects/ctl-sprout/files/STOCK-ROMS/CTL-354H-0-00WW-B01-9.0-HB.zip/download)
-* [**Android 10.0.0 CTL408B HOME BREW (November 2019)**](https://sourceforge.net/projects/ctl-sprout/files/STOCK-ROMS/CTL-408B-0-00WW-B03-10.0-HB.zip/download)
-
-
-## Nokia 6.1
-
-* [**Android 9.0.0 PL2354H HOME BREW (July 2019)**](https://sourceforge.net/projects/pl2-sprout/files/STOCK-ROMS/PL2-354H-0-00WW-B01-9.0-HB.zip/download)
-* [**Android 10.0.0 PL2410C HOME BREW (December 2019)**](https://sourceforge.net/projects/pl2-sprout/files/STOCK-ROMS/PL2-410C-0-00WW-B03-10.0-HB.zip/download)
-
-
-## Nokia 7.2
-
-* [**Android 9.0.0 DDV1390 HOME BREW (December 2019)**](https://sourceforge.net/projects/ddv-sprout/files/STOCK-ROMS/DDV-00WW_1_390-9.0-HB.zip/download)
-* [**Android 9.0.0 DDV1400 HOME BREW (January 2020)**](https://sourceforge.net/projects/ddv-sprout/files/STOCK-ROMS/DDV-00WW_1_400-9.0-HB.zip/download)
-
-
-## Nokia 6.2
-
-* [**Android 9.0.0 SLD1160 HOME BREW (December 2019)**](https://sourceforge.net/projects/sld-sprout/files/STOCK-ROMS/SLD-00WW_1_160-9.0-HB.zip/download)
-* [**Android 9.0.0 SLD1170 HOME BREW (January 2020)**](https://sourceforge.net/projects/sld-sprout/files/STOCK-ROMS/SLD-00WW_1_170-9.0-HB.zip/download)
-
 
 ## Download Tool
 
@@ -126,7 +85,6 @@ Many people are getting confused about flashing stock rom on their Respective No
 ## Credits 
 
   My entire Nokia SDM660 community Thank you all for your massive support
-
 
 
 ## Support
